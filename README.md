@@ -1,16 +1,29 @@
-## alfaradhila👋
+Selamat Datang
 
-<!--
-**alfaradhila/alfaradhila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>Hallo Semuanya!! Dapatkan Informasi melalui web ini 
 
-Here are some ideas to get you started:
+<h2>Saya Siti Alfaradhila, pemilik website ini 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3><a href="https://wa.me/6285931119990">Contact Us</a>
+
+<h4>
+<body>
+    <table border="1">
+        <tr>
+            <th rowspan="1" bgcolor="#000000">Materi</th>
+            <th colspan="2" bgcolor="#000000">Mata kuliah pengembangan Web</th>  
+        </tr>
+        <tr>
+            <td>Pertemuan 1</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Pertemuan 2</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Pertemuan 3</td>
+            <td></td>
+            <td></td>
